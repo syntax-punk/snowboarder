@@ -7,10 +7,14 @@ public class FinishLine : MonoBehaviour
     [SerializeField]
     private float RestartDelay = 1f;
 
+    [SerializeField]
+    private ParticleSystem FinishEffect;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
+            FinishEffect.Play();
             Invoke(nameof(RestartScene), RestartDelay);
         }
     }
