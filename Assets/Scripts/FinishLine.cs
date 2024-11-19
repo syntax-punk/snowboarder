@@ -10,6 +10,14 @@ public class FinishLine : MonoBehaviour
     [SerializeField]
     private ParticleSystem FinishEffect;
 
+    private void Awake()
+    {
+        if (FinishEffect == null)
+        {
+            FinishEffect = GetComponentInChildren<ParticleSystem>();
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))

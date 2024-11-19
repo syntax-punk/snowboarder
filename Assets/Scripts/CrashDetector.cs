@@ -10,6 +10,20 @@ public class CrashDetector : MonoBehaviour
     [SerializeField]
     ParticleSystem CrashEffect;
 
+    private void Start()
+    {
+        if (CrashEffect == null)
+        {
+            Debug.LogWarning("CrashEffect is not assigned. Trying to find it in children.");
+            CrashEffect = GetComponentInChildren<ParticleSystem>();
+
+            if (CrashEffect == null)
+            {
+                Debug.LogError("CrashEffect is not assigned and not found in children.");
+            }
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Obstacle"))
