@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 5769fafc74a8f43819d852fd2c44f6f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -477245749060997822
+    second: Cloudy_04-256x256_0
+  - first:
+      213: 8314644525229680789
+    second: Cloudy_04-256x256_1
+  - first:
+      213: -908381132391054607
+    second: Cloudy_04-256x256_2
+  - first:
+      213: 3805431294491485474
+    second: Cloudy_04-256x256_3
+  - first:
+      213: 2296891275920587333
+    second: Cloudy_04-256x256_4
+  - first:
+      213: 5021167011710921858
+    second: Cloudy_04-256x256_5
+  - first:
+      213: 6591276280308129925
+    second: Cloudy_04-256x256_6
+  - first:
+      213: 7200305396639914774
+    second: Cloudy_04-256x256_7
+  - first:
+      213: 7001089224081131125
+    second: Cloudy_04-256x256_8
+  - first:
+      213: 1732178509345992645
+    second: Cloudy_04-256x256_9
+  - first:
+      213: -5866148299406067330
+    second: Cloudy_04-256x256_10
+  - first:
+      213: -2356111429412513859
+    second: Cloudy_04-256x256_11
+  - first:
+      213: 2075686004468296184
+    second: Cloudy_04-256x256_12
+  - first:
+      213: 219505207017960777
+    second: Cloudy_04-256x256_13
+  - first:
+      213: 4505831123872610879
+    second: Cloudy_04-256x256_14
+  - first:
+      213: 2724451522693181843
+    second: Cloudy_04-256x256_15
+  - first:
+      213: -816044908957188101
+    second: Cloudy_04-256x256_16
+  - first:
+      213: 3191186290979010125
+    second: Cloudy_04-256x256_17
+  - first:
+      213: -8028548595810324985
+    second: Cloudy_04-256x256_18
+  - first:
+      213: 6726844765260882677
+    second: Cloudy_04-256x256_19
+  - first:
+      213: 7952116926666396686
+    second: Cloudy_04-256x256_20
+  - first:
+      213: 3339783397109250701
+    second: Cloudy_04-256x256_21
+  - first:
+      213: 1370727304807286458
+    second: Cloudy_04-256x256_22
+  - first:
+      213: 5554178030455134015
+    second: Cloudy_04-256x256_23
+  - first:
+      213: -1861656366484338318
+    second: Cloudy_04-256x256_24
+  - first:
+      213: -3768082947556741534
+    second: Cloudy_04-256x256_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d67a0158b7069f0800000000000000
+      internalID: -477245749060997822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59826ff842d836370800000000000000
+      internalID: 8314644525229680789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20a234c28c463f0800000000000000
+      internalID: -908381132391054607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 251
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e15da99b9fc430800000000000000
+      internalID: 3805431294491485474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 245
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab0fc227230ef10800000000000000
+      internalID: 2296891275920587333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 251
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c60fa3bc4cea540800000000000000
+      internalID: 5021167011710921858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 245
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5806938dadae87b50800000000000000
+      internalID: 6591276280308129925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bdc010c9f9ce360800000000000000
+      internalID: 7200305396639914774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576cb225e8dd82160800000000000000
+      internalID: 7001089224081131125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 251
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf22214d2fe90810800000000000000
+      internalID: 1732178509345992645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 246
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79b32ea331479ea0800000000000000
+      internalID: -5866148299406067330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db711ae53296d4fd0800000000000000
+      internalID: -2356111429412513859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f925917c615ecc10800000000000000
+      internalID: 2075686004468296184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94577a2a2d6db0300800000000000000
+      internalID: 219505207017960777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a7354c88de78e30800000000000000
+      internalID: 4505831123872610879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39136e1a9323fc520800000000000000
+      internalID: 2724451522693181843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff37d89a73dca4f0800000000000000
+      internalID: -816044908957188101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4676e5260f594c20800000000000000
+      internalID: 3191186290979010125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea3c4d69dd49090800000000000000
+      internalID: -8028548595810324985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f222947cad8a5d50800000000000000
+      internalID: 6726844765260882677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04525276389b5e60800000000000000
+      internalID: 7952116926666396686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab1730e4b495e20800000000000000
+      internalID: 3339783397109250701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab687f6a83dc50310800000000000000
+      internalID: 1370727304807286458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f379e8ccd77641d40800000000000000
+      internalID: 5554178030455134015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2794bdde5611a26e0800000000000000
+      internalID: -1861656366484338318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloudy_04-256x256_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e6caaf58415bbc0800000000000000
+      internalID: -3768082947556741534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cloudy_04-256x256_0: -477245749060997822
+      Cloudy_04-256x256_1: 8314644525229680789
+      Cloudy_04-256x256_10: -5866148299406067330
+      Cloudy_04-256x256_11: -2356111429412513859
+      Cloudy_04-256x256_12: 2075686004468296184
+      Cloudy_04-256x256_13: 219505207017960777
+      Cloudy_04-256x256_14: 4505831123872610879
+      Cloudy_04-256x256_15: 2724451522693181843
+      Cloudy_04-256x256_16: -816044908957188101
+      Cloudy_04-256x256_17: 3191186290979010125
+      Cloudy_04-256x256_18: -8028548595810324985
+      Cloudy_04-256x256_19: 6726844765260882677
+      Cloudy_04-256x256_2: -908381132391054607
+      Cloudy_04-256x256_20: 7952116926666396686
+      Cloudy_04-256x256_21: 3339783397109250701
+      Cloudy_04-256x256_22: 1370727304807286458
+      Cloudy_04-256x256_23: 5554178030455134015
+      Cloudy_04-256x256_24: -1861656366484338318
+      Cloudy_04-256x256_25: -3768082947556741534
+      Cloudy_04-256x256_3: 3805431294491485474
+      Cloudy_04-256x256_4: 2296891275920587333
+      Cloudy_04-256x256_5: 5021167011710921858
+      Cloudy_04-256x256_6: 6591276280308129925
+      Cloudy_04-256x256_7: 7200305396639914774
+      Cloudy_04-256x256_8: 7001089224081131125
+      Cloudy_04-256x256_9: 1732178509345992645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
