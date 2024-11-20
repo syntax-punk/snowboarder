@@ -23,6 +23,8 @@ public class FinishLine : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             FinishEffect.Play();
+            GetComponent<AudioSource>().Play();
+
             Invoke(nameof(RestartScene), RestartDelay);
         }
     }

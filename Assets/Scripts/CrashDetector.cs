@@ -10,6 +10,9 @@ public class CrashDetector : MonoBehaviour
     [SerializeField]
     ParticleSystem CrashEffect;
 
+    [SerializeField]
+    AudioClip CrashSFX;
+
     private void Start()
     {
         if (CrashEffect == null)
@@ -29,6 +32,9 @@ public class CrashDetector : MonoBehaviour
         if (other.CompareTag("Ground"))
         {
             CrashEffect.Play();
+            GetComponent<AudioSource>()
+                .PlayOneShot(CrashSFX);
+
             Invoke(nameof(RestartScene), RestartDelay);
         }
     }
