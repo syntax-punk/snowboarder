@@ -13,6 +13,8 @@ public class CrashDetector : MonoBehaviour
     [SerializeField]
     AudioClip CrashSFX;
 
+    private bool _playerCrashed = false;
+
     private void Start()
     {
         if (CrashEffect == null)
@@ -29,8 +31,10 @@ public class CrashDetector : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Ground"))
+        if (other.CompareTag("Ground") && !_playerCrashed)
         {
+            _playerCrashed = true;
+
             FindAnyObjectByType<PlayerController>().DisableControls();
             CrashEffect.Play();
             GetComponent<AudioSource>()
