@@ -31,6 +31,7 @@ public class CrashDetector : MonoBehaviour
     {
         if (other.CompareTag("Ground"))
         {
+            FindAnyObjectByType<PlayerController>().DisableControls();
             CrashEffect.Play();
             GetComponent<AudioSource>()
                 .PlayOneShot(CrashSFX);

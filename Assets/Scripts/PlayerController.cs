@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D _rb;
     private SurfaceEffector2D _surfaceEffector2D;
+    private bool _playerAlive = true;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,8 +25,15 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (!_playerAlive) return;
+
         RotatePlayer();
         BoostPlayer();
+    }
+
+    public void DisableControls()
+    {
+        _playerAlive = false;
     }
 
     private void RotatePlayer()
