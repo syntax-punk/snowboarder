@@ -26,7 +26,7 @@ public class CrashDetector : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Obstacle"))
+        if (other.CompareTag("Ground"))
         {
             CrashEffect.Play();
             Invoke(nameof(RestartScene), RestartDelay);
